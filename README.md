@@ -9,9 +9,9 @@ Install Python 3.8. 0 in order to run this project.
 
 
 ## To Start
-<br/> 1.Run Sara.py in order to start with project.Use the command mention below.
+<br/> 1.Run sara.py in order to start with project.Use the command mention below.
 
 ```bash
-python Sara.py
+python sara.py
 ```
 Happy Coding!!.
